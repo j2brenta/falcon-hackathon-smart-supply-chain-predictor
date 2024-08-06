@@ -1,0 +1,21 @@
+Date,Product_ID,Product_Name,Supplier_ID,Supplier_Name,Supplier_Country,Quantity_Ordered,Quantity_Received,Delivery_Status,Days_Delayed,Transportation_Mode,Weather_Condition,Political_Stability_Index,Port_Congestion_Level
+2023-01-05,P001,Smartphone,S001,TechCorp,China,10000,10000,On Time,0,Sea,Fair,70,Low
+2023-01-10,P002,Laptop,S002,CompuTech,Taiwan,5000,4800,Delayed,3,Air,Stormy,85,N/A
+2023-01-15,P003,Tablet,S001,TechCorp,China,8000,7900,Delayed,1,Sea,Fair,70,Medium
+2023-01-20,P004,Smart Watch,S003,WearableTech,South Korea,3000,3000,On Time,0,Air,Fair,80,N/A
+2023-01-25,P001,Smartphone,S001,TechCorp,China,12000,11800,Delayed,2,Sea,Foggy,70,High
+2023-02-01,P005,Headphones,S004,AudioPhiles,Vietnam,20000,19500,Delayed,1,Sea,Fair,65,Low
+2023-02-05,P002,Laptop,S002,CompuTech,Taiwan,6000,6000,On Time,0,Air,Fair,85,N/A
+2023-02-10,P006,Power Bank,S005,PowerSolutions,India,15000,14000,Delayed,5,Sea,Cyclone,60,Medium
+2023-02-15,P003,Tablet,S001,TechCorp,China,9000,9000,On Time,0,Air,Fair,70,N/A
+2023-02-20,P007,Wireless Earbuds,S004,AudioPhiles,Vietnam,25000,24800,Delayed,1,Air,Fair,65,N/A
+2023-02-25,P001,Smartphone,S001,TechCorp,China,15000,15000,On Time,0,Sea,Fair,70,Low
+2023-03-01,P008,Gaming Console,S006,GameTech,Japan,4000,3900,Delayed,2,Air,Stormy,90,N/A
+2023-03-05,P002,Laptop,S002,CompuTech,Taiwan,7000,6800,Delayed,1,Sea,Fair,85,Low
+2023-03-10,P009,Smart Speaker,S007,HomeTech,USA,10000,9800,Delayed,1,Truck,Snowy,95,N/A
+2023-03-15,P003,Tablet,S001,TechCorp,China,10000,9500,Delayed,3,Sea,Typhoon,70,High
+2023-03-20,P004,Smart Watch,S003,WearableTech,South Korea,5000,5000,On Time,0,Air,Fair,80,N/A
+2023-03-25,P001,Smartphone,S001,TechCorp,China,20000,19000,Delayed,4,Sea,Fair,70,Medium
+2023-04-01,P005,Headphones,S004,AudioPhiles,Vietnam,30000,29500,Delayed,1,Sea,Fair,65,Low
+2023-04-05,P002,Laptop,S002,CompuTech,Taiwan,8000,7900,Delayed,1,Air,Foggy,85,N/A
+2023-04-10,P010,Fitness Tracker,S003,WearableTech,South Korea,12000,12000,On Time,0,Air,Fair,80,N/A
